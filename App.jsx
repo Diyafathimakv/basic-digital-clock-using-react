@@ -1,4 +1,3 @@
-App.jsx
 
 import DigitalClock from './DigitalClock';
 
